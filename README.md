@@ -22,4 +22,4 @@ O Ecoleta é um projeto criado para gerenciar o processo de coleta de lixo nas c
 Agradecimento a [Rocketseat.](https://rocketseat.com.br/ "Rocketseat")
 
 
- :bust_in_silhouette: Ananda Ferreira 
+ :information_desk_person: Ananda Ferreira 
